@@ -1,0 +1,225 @@
+body {
+	margin: 0px;
+	font-family: korolev, sans-serif;
+	font-style: normal;
+	font-weight: 700px;
+}
+#content {
+	width: 1920px;
+	height: 2794px;
+	margin: 0px auto;
+	position: relative;
+}
+
+/* conteudo inicial e barra de navegação */
+
+#logo {
+	width: 315px;
+	height: 290.5px;
+	position: absolute;
+	top: 76px;
+	left: 23px;
+}
+#q1 {
+	background: linear-gradient(#96D9FC, #EB268F);
+	opacity: 0.3;
+	width: 1560px;
+	height: 1080px;
+	position: absolute;
+	left: 360px;
+	top: 0px;
+	border: 1px solid #707070;
+}
+#fav {
+	width: 1560px;
+	height: 1080px;
+	position: absolute;
+	left: 360px;
+	top: 0px;
+}
+h1 {
+	width: 732px;
+	height: 198px;
+	position: absolute;
+	top: 505px;
+	left: 926px;
+	font-size: 72px;
+	color: white;
+	line-height: 91px;
+	margin: 0px;
+}
+#menino {
+	position: absolute;
+	width: 486px;
+	height: 820px;
+	left: 389px;
+	top: 260px;
+}
+nav {
+	width: 258px;
+	height: 254px;
+	position: absolute;
+	top: 414px;
+	left: 58px;
+}
+ul {
+	margin: 0px;
+	padding: 0px;
+	width: 258px;
+	height: 254px;
+	list-style: none;
+	line-height: 36px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+a {
+	text-decoration: none;
+	color: #A6538D;
+	font-size: 28px;
+}
+
+/* conteudo */
+
+#q2 {
+	width: 1560px;
+	height: 1080px;
+	background-color: #EB268F;
+	position: absolute;
+	left: 360px;
+	top: 1080px;
+}
+#prinpic {
+	width: 664px;
+	height: 529px;
+	position: absolute;
+	top: 1190px;
+	left: 456px;
+}
+p {
+	width: 677px;
+	height: 529px;
+	position: absolute;
+	top: 1190px;
+	left: 1154px;
+	font-size: 32px;
+	line-height: 40px;
+	margin: 0px;
+	text-align: left;
+	color: white;
+}
+.fot {
+	width: 312px;
+	height: 295px;
+}
+table {
+	margin: 0px;
+	position: absolute;
+	right:105px;
+	top: 1756px;
+	width: 1361px;
+}
+
+/* parceiros */
+
+#q3 {
+	width: 1560px;
+	height: 423px;
+	background-color: #96D9FC;
+	position: absolute;
+	left: 360px;
+	top: 2160px;
+}
+#bf {
+	width: 250.25px;
+	height: 153.77px;
+	position: absolute;
+	bottom: 293.23px;
+	left: 559px;
+}
+#fem {
+	width: 225.64px;
+	height: 192.21px;
+	position: absolute;
+	left: 979px;
+	bottom: 268.6px;
+}
+#edu {
+	width: 324.26px;
+	height: 129.66px;
+	position: absolute;
+	right: 167.42px;
+	bottom: 293.23px;
+}
+#par {
+	width: 350px;
+	height: 78px;
+	position: absolute;
+	right: 598px;
+	top: 2215px;
+	font-size: 64px;
+	line-height: 81px;
+	text-align: left;
+	color: #A6538D;
+	margin: 0px;
+}
+
+/* contato */
+
+#q4 {
+	width: 1560px;
+	height: 210.5px;
+	background-color: #A6538D;
+	position: absolute;
+	left: 360px;
+	top: 2583.5px;
+}
+#resumo {
+	width: 300px;
+	height: 154px;
+	position: absolute;
+	top: 2611px;
+	left: 547px;
+	font-size: 18px;
+	text-align: left;
+	line-height: 24px;
+}
+#con {
+	width: 242px;
+	height: 78px;
+	position: absolute;
+	top: 2604px;
+	left: 979px;
+	font-size: 64px;
+	text-align: left;
+	line-height: 81px;
+	color: white;
+	margin: 0px;
+}
+#face {
+	width: 527px;
+	height: 41px;
+	position: absolute;
+	top: 2702px;
+	left: 979px;
+	font-size: 18px;
+	text-align: left;
+	line-height: 22px;
+	color: white;
+	margin: 0px;
+}
+#tele {
+	width: 449px;
+	height: 50px;
+	position: absolute;
+	top: 2743px;
+	left: 979px;
+	font-size: 18px;
+	text-align: left;
+	line-height: 22px;
+	color: white;
+	margin: 0px;
+}
+span {
+	color: #96d2f6;
+}
